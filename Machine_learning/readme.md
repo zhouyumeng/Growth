@@ -1,7 +1,10 @@
 # 项目说明
 该项目用于记录台大李宏毅老师的2020年的机器学习课程，主要是上课笔记和课后作业的内容。
-
 课后作业是给予python3.6.8进行的，使用Pyenv进行Python版本管理。
+
+## 参考链接
++ [课程页面](https://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
++ [视频课程](https://www.bilibili.com/video/BV1JE411g7XF?p=2)
 
 ## 课前准备
 ______________________________________
